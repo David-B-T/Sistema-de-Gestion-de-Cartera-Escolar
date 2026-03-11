@@ -3,7 +3,9 @@ Nombre del proyecto: Sistema de Gestión de Cartera Escolar
 Nombre del producto: LibretaDigital
 
 Nombres de los integrantes y rol: 
+
 David Bohórquez Toscano, desarrollador de software.
+
 Arley Rubén Martínez Mendoza,Gestor documental.
 
 Producto final del proyecto: Aplicación móvil en Android para la gestión local de deudas estudiantiles y sistema de notificaciones por morosidad.
